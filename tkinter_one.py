@@ -8,4 +8,5 @@ label.config(fg='#333333', bg='#eeeeee',
 label.config(height=5, width=10)
 label.pack(fill=tk.BOTH, expand=tk.YES)
 
+root.geometry('300x300')
 root.mainloop()
